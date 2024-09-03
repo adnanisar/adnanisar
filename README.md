@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on retiring
 - 📫 How to reach me: driving would make it easier
-- ⚡ Fun fact: i dont enjoy sitting in front of a screen for too long
+- ⚡ Fun fact: i dont enjoy sitting in front of a screen too long
 
 <!---
 adnanisar/adnanisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
