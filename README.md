@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnanisar
-- 👀 I’m interested in the matrix
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on retiring
+- 👀 I’m interested in learning something new
+- 🌱 I’m currently learning sql, python and brushing up some c++
+- 💞️ I’m looking to get coffee
 - 📫 How to reach me: driving would make it easier
 - ⚡ Fun fact: i dont enjoy sitting in front of a screen too long
 
